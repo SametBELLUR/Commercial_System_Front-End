@@ -10,6 +10,8 @@ import { CategoryService } from 'src/app/services/category.service';
 export class CategoryComponent implements OnInit {
   categories: Category[] = [];
   currentCategory: Category;
+
+  //"Tüm Ürünler"
   allProducts: Category = {
     categoryId: -1,
     categoryName: 'All_Products',
