@@ -11,6 +11,8 @@ import { ProductService } from 'src/app/services/product.service';
 export class ProductComponent implements OnInit {
   products: Product[] = [];
   dataLoaded = false;
+  filterText: string = '';
+
   constructor(
     private productService: ProductService,
     private activatedRoute: ActivatedRoute
