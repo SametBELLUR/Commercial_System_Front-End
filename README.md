@@ -1,7 +1,7 @@
 # E-Ticaret Sistemi Projesi
 Bu proje sayın **Engin Demiroğ**'un ücretsiz olarak sunduğu 'Yazılım Geliştirici Yetiştirme Kampı' içerisinde eğitim amaçlı geliştirilmiştir.
 #Kullanılan Teknolojiler ve Mimari
-- Bak-End
+- Back-End
   - C# Vers. 7.3
   - Restful Web Api Vers. .Net Core 3.1
   - Katmanlı Mimari
